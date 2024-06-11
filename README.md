@@ -15,11 +15,10 @@
 ### 📖 목차
 + [팀 소개](#팀-소개)
 + [프로젝트 소개](#프로젝트-소개)
-+ [팀 노션](#팀-노션)
++ [결과물 소개](#결과물-소개)
 + [기능 소개](#기능-소개)
 + [UML 다이어그램](#UML-다이어그램)
 + [TroubleShooting](#TroubleShooting)
-+ [시연 영상 링크](#시연-영상-링크)
 
 ---
 
@@ -43,9 +42,11 @@
 
 ---
 
-### ✨팀 노션
+### ✨결과물 소개
 
 ### [🌾Team Notion](https://www.notion.so/teamsparta/efbfef6530864b86969e6a991f6b38c3)
+
+### [🌕YouTube](https://www.youtube.com/watch?v=1O8rv1-oNSQ)
 
 ---
 
@@ -94,10 +95,16 @@
 ### ✨TroubleShooting
 
 1.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/46c05791-75d6-4e9e-9afb-b61085646536)
 
-2. 
+2.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/e46cc060-88be-4f98-b746-3169edda45b3)
+
+3.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/baf4b374-4875-4dda-b746-6486151e7d10)
+
+4.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/d87f6aaf-128b-4bc6-958f-bb4995a0e1d1)
+
 ---
 
-### ✨시연 영상 링크
-
----
