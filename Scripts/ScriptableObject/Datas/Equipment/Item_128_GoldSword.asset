@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 182ef6de51a3d0a42ad3c59d63c99467, type: 3}
+  m_Name: Item_128_GoldSword
+  m_EditorClassIdentifier: 
+  itemID: 128
+  itemIcon: {fileID: 21300000, guid: 282e2f8a95a3eb642a15cb67031b5c21, type: 3}
+  itemType: 3
+  itemName: "\uAE08 \uAC80"
+  itemDescription: "\uAE08\uC73C\uB85C \uB9CC\uB4E0 \uAC80\uC785\uB2C8\uB2E4. \uC801\uACFC
+    \uC2F8\uC6B8 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+  itemPrefab: {fileID: 4922281723221997449, guid: c8d62eacebde17a439af8ca8fa8f36fd,
+    type: 3}
+  canStack: 0
+  maxStackAmount: 0
+  equipPrefab: {fileID: 2064719416484327044, guid: 93f6f29232ddbc04082c4b57395c072a,
+    type: 3}
+  consumables: []

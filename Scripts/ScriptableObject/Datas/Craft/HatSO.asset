@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ad4bc9793d9049b922ff533b3f600, type: 3}
+  m_Name: HatSO
+  m_EditorClassIdentifier: 
+  CraftID: 1501
+  craftItem: {fileID: 11400000, guid: 022d48c47b40b8941aef5e86452ee3bc, type: 2}
+  requirementInfo:
+  - {fileID: 11400000, guid: 51e54ba0bb71c5e42a81f5ee49c7e92b, type: 2}
+  requirementCount: 04000000
+  craftDuration: 0
+  craftSortOrder: 0
+  isBuilding: 0
+  bluePrint: {fileID: 0}
+  craft_sound: {fileID: 8300000, guid: a959259a1dc64384291aa531cc0f73b1, type: 3}

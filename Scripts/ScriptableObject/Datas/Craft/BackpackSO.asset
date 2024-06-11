@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 825ad4bc9793d9049b922ff533b3f600, type: 3}
+  m_Name: BackpackSO
+  m_EditorClassIdentifier: 
+  CraftID: 1500
+  craftItem: {fileID: 11400000, guid: 8716f3447c52710439cabcdf4a937128, type: 2}
+  requirementInfo:
+  - {fileID: 11400000, guid: a96df920d7c2a94418d58a96c88d23bc, type: 2}
+  - {fileID: 11400000, guid: 51e54ba0bb71c5e42a81f5ee49c7e92b, type: 2}
+  - {fileID: 11400000, guid: 08d5a3377d71c0b468d98de9be8fe965, type: 2}
+  requirementCount: 030000000300000001000000
+  craftDuration: 0
+  craftSortOrder: 0
+  isBuilding: 0
+  bluePrint: {fileID: 0}
+  craft_sound: {fileID: 8300000, guid: a959259a1dc64384291aa531cc0f73b1, type: 3}

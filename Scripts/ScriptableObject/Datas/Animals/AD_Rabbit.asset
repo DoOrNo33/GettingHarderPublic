@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e811a4f7c7589d4a9a1852a3ca45012, type: 3}
+  m_Name: AD_Rabbit
+  m_EditorClassIdentifier: 
+  AnimalID: 0
+  health: 2
+  walkSpeed: 4
+  runSpeed: 8
+  dropOnDeath: []
+  detectDistance: 5
+  animalType: 2
+  homeAreaRadius: 20
+  fleeDistance: 20
+  minWanderDistance: 5
+  maxWanderDistance: 10
+  minWanderWaitTime: 1
+  maxWanderWaitTime: 2
+  damage: 1
+  attackCooldown: 1.5
+  attackDistance: 2.5
+  fieldOfView: 120
