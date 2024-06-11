@@ -53,42 +53,41 @@
 
 1. 스타트 씬 플로우
 
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/2dca7183-0da3-499f-94b9-f24d9e62ed10)
+![1](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/429837d7-bfc0-4a0f-8c12-239bcee42af6)
 
 2. 인벤토리
 
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/7e56cad4-c5a7-44c3-ab0d-c8d3e199012b)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/3eddad95-17a9-45fa-8133-aa4548a5316b)
 
 3. 건설
 
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/fb1c54c5-70f4-478d-ac8e-bd3f8540d032)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/d91a207b-bd57-4639-b4eb-b4f69a932e45)
 
-5. 전투
+4. 전투
    
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/9a0b80bc-7276-4ea2-a463-6f87930533f6)
-
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/36077176-a2f8-46b1-8900-4b4d631b140a)
 
 ---
 
 ### ✨UML 다이어그램
 
 <전체 구조>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/9571630e-9a34-49d9-bfbe-a5bdf3713ef2)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/0d456e50-8f0c-466c-bba4-46acd0e61c44)
 
 <스타트 씬>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/3f903b9c-9470-4042-979c-3cadee1a7b3b)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/a843d43e-ee14-4e15-95be-f1632df23a6a)
 
-<메인 씬>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/e6a497cf-6ef8-40d0-ad03-104c6ccc5282)
+<싱글톤 패>
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/498a0683-dcd2-4cd6-93c5-089da97053c6)
 
 <환경>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/83400c29-03c4-4b21-9beb-3d44b68257c6)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/8b251974-97c6-4866-9c6c-0c03e16a4f15)
 
 <인벤토리>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/25afe814-294f-49b2-b4b1-3bbe15a7a2a1)
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/7704c614-d78d-4b96-bd35-409dd6354f81)
 
-<저장 불러오기>
-![image](https://github.com/DoOrNo33/GettingHarder/assets/167051416/ff640186-46ef-42b2-a8c9-74b1614d6f59)
+<오디오 및 저장>
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/8b03963f-941f-4388-8b31-05d903fd2cc7)
 
 ---
 
