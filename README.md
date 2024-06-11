@@ -17,9 +17,10 @@
 + [프로젝트 소개](#프로젝트-소개)
 + [결과물 소개](#결과물-소개)
 + [기능 소개](#기능-소개)
-+ [UML 다이어그램](#UML-다이어그램)
++ [와이어 프레임](#와이어-프레임)
++ [기술 스택](#기술-스택)
 + [TroubleShooting](#TroubleShooting)
-
++ [UML 다이어그램](#UML-다이어그램)
 ---
 
 ### ✨팀 소개
@@ -70,6 +71,42 @@
 
 ---
 
+### ✨와이어 프레임
+
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/aaae43f0-6d3d-4fde-bc73-cdac5e0f9b8e)
+
+---
+
+### ✨기술 스택
+| 기술 스택   | 사용 이유 | 결 |
+|:--------:|------|------|
+| 절차적 맵 생성 | 생존 게임에서 자원 및 오브젝트가 무작위성을 가지면서도 일정한 생성 요건을 충족시키기 위해 | 게임 플레이의 예측 불가능성을 높이고 플레이어에게 새로운 도전과 탐험의 즐거움 제공 |
+| 로그인 시스템 | 게임 개발에 필수적인 유저 정보 저장 시스템 구축을 위해 | 로그인을 통한 정보 관리 시스템 구현 |
+| Cinemachine | TopDown View 구현 및 Camera Damping 기능 구현을 위해 | 플레이어를 부드럽게 따라가는 카메라 시스템 구축 |
+| Json | 플레이어의 정보나 절차적 맵 생성을 통한 맵과 인벤토리의 정보를 받아오기 위 | 다양한 정보를 저장 및 불러오기 가능 |
+| Raycast | 플레이어의 아이템 및 건물 상호작용을 위해 | Drag & Drop 및 건물 배치에 활 |
+| Scriptable Object | 다양한 아이템을 관리하기 위해 | 다양한 아이템을 쉽게 생성하고 정리 가능 |
+| EventSystem | Drag & Drop 기능과 UI 상호작용을 위해 | EventSystem을 통해 아이템 위치 변경 가능 |
+| InputSystem | 플레이어의 여러가지 행동을 구현하기 위해 | 플레이어의 다양한 상호작용 및 행동 구현 |
+
+---
+
+### ✨TroubleShooting
+
+1.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/46c05791-75d6-4e9e-9afb-b61085646536)
+
+2.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/e46cc060-88be-4f98-b746-3169edda45b3)
+
+3.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/baf4b374-4875-4dda-b746-6486151e7d10)
+
+4.
+![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/d87f6aaf-128b-4bc6-958f-bb4995a0e1d1)
+
+---
+
 ### ✨UML 다이어그램
 
 <전체 구조>
@@ -89,22 +126,6 @@
 
 <오디오 및 저장>
 ![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/8b03963f-941f-4388-8b31-05d903fd2cc7)
-
----
-
-### ✨TroubleShooting
-
-1.
-![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/46c05791-75d6-4e9e-9afb-b61085646536)
-
-2.
-![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/e46cc060-88be-4f98-b746-3169edda45b3)
-
-3.
-![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/baf4b374-4875-4dda-b746-6486151e7d10)
-
-4.
-![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/d87f6aaf-128b-4bc6-958f-bb4995a0e1d1)
 
 ---
 
