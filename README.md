@@ -115,7 +115,7 @@
 <스타트 씬>
 ![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/a843d43e-ee14-4e15-95be-f1632df23a6a)
 
-<싱글톤 패>
+<싱글톤 패턴>
 ![image](https://github.com/DoOrNo33/GettingHarderPublic/assets/167051416/498a0683-dcd2-4cd6-93c5-089da97053c6)
 
 <환경>
